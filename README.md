@@ -2,7 +2,7 @@
 
 RPi files to create halloween effect with hue lights
 
-LR_halloween.py --> Living room lights
+LR_halloween.py --> Living room lights;
 halloween.py --> Porch lights
 
 Run ./loop LR_halloween.py
